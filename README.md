@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, my name is Thomas and I am a 4th year computer science student studying at the University of British Columbia Okanagan.
 
+To see the projects I've worked on, check out my [portfolio](https://thomas-buchholz.web.app/).
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OkThomas1&count_private=true&show_icons=true)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkThomas1&exclude_repo=TumbledMTG-Cockatrice&langs_count=6)
 <!--
 **OKThomas1/OkThomas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
