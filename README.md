@@ -1,6 +1,6 @@
 ### Hi there, my name is Thomas and I am a 4th year computer science student studying at the University of British Columbia Okanagan.
 
-To see the projects I've worked on, check out my [portfolio](https://thomas-buchholz.web.app/).
+To see the projects I've worked on, check out my [personal website](https://thomasbuchholz.dev) or my [interactive portfolio](https://portfolio.thomasbuchholz.dev/).
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OkThomas1&count_private=true&show_icons=true)
 
