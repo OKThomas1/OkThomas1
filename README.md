@@ -1,4 +1,4 @@
-### Hi there, my name is Thomas and I am a 4th year computer science student studying at the University of British Columbia Okanagan.
+### Hi there, my name is Thomas and I am a recent graduate with a bachelor's in Computer Science and a minor in Data Science.
 
 To see the projects I've worked on, check out my [personal website](https://thomasbuchholz.dev) or my [interactive portfolio](https://portfolio.thomasbuchholz.dev/).
 
