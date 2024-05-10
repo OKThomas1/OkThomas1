@@ -1,6 +1,6 @@
 ### Hi there, my name is Thomas and I am a recent graduate with a bachelor's in Computer Science and a minor in Data Science.
 
-To see the projects I've worked on, check out my [personal website](https://thomasbuchholz.dev) or my [interactive portfolio](https://portfolio.thomasbuchholz.dev/).
+To see the projects I've worked on, check out my [interactive portfolio](https://thomas-buchholz.web.app/).
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OkThomas1&count_private=true&show_icons=true)
 
